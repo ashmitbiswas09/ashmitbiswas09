@@ -19,5 +19,6 @@ I enjoy building things with code, experimenting with new ideas, and understandi
 
 ---
 
-💻 My Tech Stack
+## 💻 My Tech Stack
+
 [![My Tech Stack](https://skillicons.dev/icons?i=py,js,html,css,react,vite,regex,tailwind,threejs,anaconda,pycharm,django,flask,fastapi,git,github,ai,mongodb,mysql,nextjs,nodejs,npm,replit,tensorflow,vscode,)](https://skillicons.dev)
