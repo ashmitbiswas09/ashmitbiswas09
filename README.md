@@ -1,8 +1,5 @@
 ## Hi there, I'm Ashmit 👋 
 
-<!--
-**ashmitbiswas09/ashmitbiswas09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💻 Programmer • 🎮 Modder • ⚙️ Tech Enthusiast  
 
 I enjoy building things with code, experimenting with new ideas, and understanding how systems work under the hood.
